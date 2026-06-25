@@ -46,7 +46,7 @@ class TestPatternDetector:
         assert len(result["patterns"]) > 0
 
         # No repeated characters
-        result2 = detector.detect_repeated_characters("Password123")
+        result2 = detector.detect_repeated_characters("Tr0pic@lThunder")
         assert len(result2["patterns"]) == 0
 
     def test_detect_all_patterns(self, detector):
