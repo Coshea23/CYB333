@@ -272,7 +272,7 @@ This project is created for educational purposes in CYB333.
 
 ## Author
 
-Created for CYB333 Final Project - December 2026
+Created for CYB333 Course Project - June 2026
 
 ## References
 
