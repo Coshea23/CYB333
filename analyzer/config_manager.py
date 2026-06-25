@@ -5,7 +5,7 @@ Handles loading and validation of admin settings from JSON files.
 
 import json
 from pathlib import Path
-from typing import dict, Any
+from typing import Dict, Any
 
 
 class ConfigManager:

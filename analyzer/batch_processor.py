@@ -5,7 +5,7 @@ Processes multiple passwords from CSV files and generates reports.
 
 import csv
 from pathlib import Path
-from typing import list, dict
+from typing import List, Dict
 
 from analyzer.scorer import PasswordScorer
 from analyzer.breach_checker import BreachChecker
