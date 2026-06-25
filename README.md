@@ -247,13 +247,13 @@ Tests cover:
 ## Project Scope
 
 This project implements a realistic subset of password validation:
-- ✅ Entropy scoring
-- ✅ Breach database integration (HIBP)
-- ✅ Pattern detection
-- ✅ Batch mode processing
-- ✅ Configuration management
-- ✅ Unit tests
-- ✅ Comprehensive documentation
+- Entropy scoring
+- Breach database integration (HIBP)
+- Pattern detection
+- Batch mode processing
+- Configuration management
+- Unit tests
+- Comprehensive documentation
 
 ## Limitations & Future Enhancements
 
